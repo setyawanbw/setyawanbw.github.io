@@ -18,6 +18,10 @@ installed MkDocs.
 
 ### Machine Design
 
+    - Computer Aided Design
+    - Computer Aided Manufactire
+
+
 ### Computational Fluid Dynamics
 
 ### Digital Manufacture

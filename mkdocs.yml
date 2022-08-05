@@ -1,11 +1,11 @@
-site_name: MkDocs Bootswatch Themes
-site_url: https://mkdocs.github.io/mkdocs-bootswatch/
-site_description: MkDocs Bootswatch Themes
-site_author: Tom Christie & Dougal Matthews
+site_name: Setyawan Bekti Wibowo
+site_url: https://setyawanbw.github.io/
+site_description: Note and Documentation by SBW
+site_author: Setyawan Bekti Wibowo
 
-repo_url: https://github.com/mkdocs/mkdocs-bootswatch
+repo_url: https://setyawanbw.github.io/
 
-copyright: Copyright &copy; 2014 <a href="https://twitter.com/_tomchristie">Tom Christie</a>, <a href="http://www.dougalmatthews.com/">Dougal Matthews</a>.
+copyright: Copyright &copy; 2014 <a href="https://twitter.com/_setyawanbw">Setyawan</a>
 
 theme:
     name: flatly
